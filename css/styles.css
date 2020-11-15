@@ -1,0 +1,46 @@
+body
+{
+  background-color: #dbf6e9;
+}
+hr
+{
+ background-color: #dbf6e9;
+ border-style: none;
+ border-top-style: dotted;
+ border-color:grey;
+ border-width: 5px;
+  width:10%;
+}
+
+h1
+{
+  color: #522546;
+}
+
+h3
+{
+  color: #056676;
+  text-decoration: underline;
+  font-style: oblique;
+}
+
+h2
+{
+  color: #056676;
+  text-decoration: underline;
+}
+h4
+{
+    color: #056676;
+    text-decoration: underline;
+}
+h5
+{
+  color: #056676;
+  text-decoration: underline;
+}
+h6
+{
+  color: #056676;
+  text-decoration: underline;
+}
